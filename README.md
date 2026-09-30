@@ -36,10 +36,10 @@ This solution improved the organization's Active Directory structure, simplified
 
 ## 🎥 Video Walkthrough
 
-**Video walkthrough coming soon.**
 
-I will provide a recorded demonstration of the lab showing the Active Directory environment, Organizational Units, security groups, user provisioning process, RBAC implementation, and troubleshooting scenario.
+Watch my walkthrough of the Windows Server 2025 and Windows 11 Enterprise lab:
 
+[▶️ Watch the Video on Loom](https://www.loom.com/share/79e950edb47c4243877be74633a31a0e)
 ---
 
 ## 🛠️ Tools Used
